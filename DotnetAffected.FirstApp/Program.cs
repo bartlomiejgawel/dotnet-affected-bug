@@ -1,0 +1,3 @@
+﻿using DotnetAffectedLibrary;
+
+Test.DoNothing();
